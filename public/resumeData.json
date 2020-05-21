@@ -1,0 +1,125 @@
+{
+  "main": {
+    "name": "Jeremiah Damiron",
+    "occupation": "Full Stack Developer",
+    "description": "I am a innovative full stack engineer with 4 years of experience in web development and computer science. Seasoned expert in languages such as Javascript and Python. Efficient learner with a mindset that is coachable. Technically proficient and analytical problem solver with a calm and focused demeanor.",
+    "image": "profilepic.jpg",
+    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage": "Let's Chat!",
+    "email": "jeremiahdamiron@gmail.com",
+    "phone": "978-771-1172",
+    "address": {
+      "street": "(Your Street)",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.jeremiahdamiron.com",
+    "resumedownload": "http://jeremiahdamiron.com",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/webdevdamiron",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jeremiahdamiron/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/webdevdamiron/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/jdamiron/",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "General Assembly",
+        "degree": "Web Development Immersive",
+        "graduated": "March 2016",
+        "description": "12 week, Full-time course in which I gained a solid foundation of web development skills including HTML5, CSS3, Javascript, Ruby on Rails, and various other languages and frameworks."
+      },
+      {
+        "school": "Syracuse University",
+        "degree": "Computer Science",
+        "graduated": "March 2015",
+        "description": "2 years of college experience"
+      }
+    ],
+    "work": [
+      {
+        "company": "True Fit Corporation",
+        "title": "Web Engineer",
+        "years": "June 2016 - April 2020",
+        "description": "Lead engineer on the Delivery team with a focus on product expansions. Implement client requested configurations coordinating with QA and Project management to deliver updates on existing products, as well as, implementing new product expansion. Product expansions are validated using User Acceptance Testing to ensure client satisfaction. Query the database using SQL to gather order information. Provide documentation of site integration tests and provide technical guidance to clients to reach ideal product integration. Outperformed 100% of annual goals every year."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML5/CSS3",
+        "level": "100%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "React.js/Node.js",
+        "level": "100%"
+      },
+      {
+        "name": "Python/Django",
+        "level": "100%"
+      },
+      {
+        "name": "Git/Github",
+        "level": "100%"
+      },
+      {
+        "name": "Ruby/Rails",
+        "level": "100%"
+      },
+      {
+        "name": "GraphQL/SQL",
+        "level": "100%"
+      },
+      {
+        "name": "Wordpress",
+        "level": "100%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Damiron Family Photography",
+        "category": "React.js/ Netlify",
+        "image": "dfp.png",
+        "url": "https://www.damironfamilyphotography.com"
+      },
+      {
+        "title": "Sick Fits",
+        "category": "React.js/ Apollo/ Prisma/ GraphQL",
+        "image": "sickfits.png"
+      },
+      {
+        "title": "Travel Log",
+        "category": "React.js/ Express.js/ Node.js/ MongoDB:",
+        "image": "travellog.png"
+      },
+      {
+        "title": "Catch of the Day",
+        "category": "React.js/ Firebase",
+        "image": "catchoftheday.png"
+      }
+    ]
+  }
+}

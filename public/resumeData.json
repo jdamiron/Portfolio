@@ -3,7 +3,7 @@
     "name": "Jeremiah Damiron",
     "occupation": "Full Stack Developer",
     "description": "I am a innovative full stack engineer with 4 years of experience in web development and computer science. Seasoned expert in languages such as Javascript and Python. Efficient learner with a mindset that is coachable. Technically proficient and analytical problem solver with a calm and focused demeanor.",
-    "image": "profilepic.jpg",
+    "image": "headshot.jpeg",
     "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage": "Contact Me",
     "email": "jeremiahdamiron@gmail.com",
@@ -15,7 +15,7 @@
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "http://www.jeremiahdamiron.com",
-    "resumedownload": "http://jeremiahdamiron.com",
+    "resumedownload": "../images/UpdatedResume.pdf",
     "social": [
       {
         "name": "twitter",

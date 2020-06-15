@@ -133,11 +133,6 @@
         "title": "Travel Log",
         "category": "React.js/ Express.js/ Node.js/ MongoDB:",
         "image": "travellog.png"
-      },
-      {
-        "title": "Catch of the Day",
-        "category": "React.js/ Firebase",
-        "image": "catchoftheday.png"
       }
     ]
   }

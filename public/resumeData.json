@@ -2,7 +2,7 @@
   "main": {
     "name": "Jeremiah Damiron",
     "occupation": "Full Stack Developer",
-    "description": "I am an innovative full stack engineer with 4 years of experience in web development and computer science. Seasoned expert in languages such as Javascript and Python. Efficient learner with a mindset that is coachable. Technically proficient and analytical problem solver with a calm and focused demeanor.",
+    "description": "I am an innovative full stack engineer with 4+ years of experience in web development and computer science. Seasoned expert in languages such as Javascript and Python. Efficient learner with a mindset that is coachable. Technically proficient and analytical problem solver with a calm and focused demeanor.",
     "image": "headshot.jpeg",
     "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage": "Contact Me",
@@ -60,6 +60,12 @@
         "title": "Web Engineer",
         "years": "June 2016 - April 2020",
         "description": "Lead engineer on the Delivery team with a focus on product expansions. Implement client requested configurations coordinating with QA and Project management to deliver updates on existing products, as well as, implementing new product expansion. Product expansions are validated using User Acceptance Testing to ensure client satisfaction. Query the database using SQL to gather order information. Provide documentation of site integration tests and provide technical guidance to clients to reach ideal product integration. Outperformed 100% of annual goals every year."
+      },
+      {
+        "company": "Self Employed",
+        "title": "Wordpress Engineer",
+        "years": "September 2017 - Present",
+        "description": "Self employed wordpress engineer producing websites and web applications for local businesses. Mastered leadership skills as a self starter. Increased communication skills staying in constant contact with clients."
       }
     ],
     "skills": [
@@ -94,11 +100,24 @@
       {
         "name": "Wordpress",
         "level": "100%"
+      },
+      {
+        "name": "Agile Scrum",
+        "level": "100%"
+      },
+      {
+        "name": "Data Structures/Algorithms",
+        "level": "100%"
       }
     ]
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "Audio Arena",
+        "category": "React.js/ Express.js/ MongoDB/ Node.js",
+        "image": "audio-arena.png"
+      },
       {
         "title": "Damiron Family Photography",
         "category": "React.js/ Netlify",
